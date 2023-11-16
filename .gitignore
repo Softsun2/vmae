@@ -1,7 +1,7 @@
 .DS_Store
-# CMAKE build dir
+# Cmake build dir
 build
-# NIX build link
+# Nix build link
 result
 # Editor support
 compile_commands.json
